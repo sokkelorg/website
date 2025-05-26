@@ -188,8 +188,7 @@ const pains: Pain[] = [
           <div>
             <p class="title">But then the real world starts creeping in…</p>
             <p>
-              Meetings. Roadmaps. Distractions. Your focus slips – the software
-              drifts.
+              Meetings. Roadmaps. Distractions. Your focus slips – the software drifts.
             </p>
           </div>
         </div>
@@ -543,6 +542,7 @@ const pains: Pain[] = [
     .strip {
       display: grid;
       gap: calc(var(--spacing) * 8);
+
       @media(min-width: 40rem) {
         grid-template-columns: 1fr 1fr;
       }
@@ -551,11 +551,9 @@ const pains: Pain[] = [
       }
 
       .panel {
-        display: grid;
-        gap: calc(var(--spacing) * 2);
-
         img {
           border: 3px solid var(--color-black);
+          margin-bottom: calc(var(--spacing) * 2);
         }
 
         p {
