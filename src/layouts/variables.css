@@ -9,6 +9,8 @@ body {
 
   /*
    * Page breakpoints go here.
+   *
+   * NB: CSS variables cannot be used in @media selectors.
    */
   --breakpoint-sm: 40rem;
   --breakpoint-md: 48rem;
