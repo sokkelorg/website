@@ -543,6 +543,12 @@ const pains: Pain[] = [
     .strip {
       display: grid;
       gap: calc(var(--spacing) * 8);
+      @media(min-width: 40rem) {
+        grid-template-columns: 1fr 1fr;
+      }
+      @media(min-width: 64rem) {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+      }
 
       .panel {
         display: grid;
