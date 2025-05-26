@@ -96,10 +96,10 @@ const pains: Pain[] = [
     <section id="hero">
       <div id="headline">
         <h1>Effortless<br />software<br />delivery</h1>
-          <div class="subtitle">
+        <div class="subtitle">
           <h2>
-            The AI-powered <span aria-hidden="true">✨</span> platform that turns cloud
-            complexity into clarity.
+            The AI-powered <span aria-hidden="true">✨</span> platform that turns
+            cloud complexity into clarity.
           </h2>
           <WaitlistButton />
         </div>
@@ -188,7 +188,8 @@ const pains: Pain[] = [
           <div>
             <p class="title">But then the real world starts creeping in…</p>
             <p>
-              Meetings. Roadmaps. Distractions. Your focus slips – the software drifts.
+              Meetings. Roadmaps. Distractions. Your focus slips – the software
+              drifts.
             </p>
           </div>
         </div>
@@ -347,9 +348,9 @@ const pains: Pain[] = [
       .subtitle {
         display: flex;
         flex-direction: column;
-        gap: calc(var(--spacing)*8);
+        gap: calc(var(--spacing) * 8);
         align-items: center;
-        @media(min-width: 40rem) {
+        @media (min-width: 40rem) {
           align-items: start;
         }
 
@@ -376,6 +377,9 @@ const pains: Pain[] = [
 
         .stacky {
           width: 75%;
+          @media (min-width: 40rem) {
+            width: 100%;
+          }
         }
 
         .speech-bubble {
@@ -462,10 +466,10 @@ const pains: Pain[] = [
 
       display: grid;
       gap: calc(var(--spacing) * 4);
-      @media(min-width: 40rem) {
+      @media (min-width: 40rem) {
         grid-template-columns: 1fr 1fr;
       }
-      @media(min-width: 64rem) {
+      @media (min-width: 64rem) {
         grid-template-columns: 1fr 1fr 1fr 1fr;
       }
 
@@ -543,10 +547,10 @@ const pains: Pain[] = [
       display: grid;
       gap: calc(var(--spacing) * 8);
 
-      @media(min-width: 40rem) {
+      @media (min-width: 40rem) {
         grid-template-columns: 1fr 1fr;
       }
-      @media(min-width: 64rem) {
+      @media (min-width: 64rem) {
         grid-template-columns: 1fr 1fr 1fr 1fr;
       }
 
