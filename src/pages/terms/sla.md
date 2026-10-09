@@ -2,91 +2,50 @@
 layout: ../../layouts/TermsLayout.astro
 ---
 
-# SERVICE LEVEL AGREEMENT (SLA)
+# Appendix 1: Service Levels
 
-The Service is provided "as is" as standardized service; the right to use is not
-conditional or tied to a specific version or functionality at a certain time,
-but allows access to and use of the Service as is at all times.
+This appendix says how Sokkel supports the Customer, how fast errors are fixed and what the Customer gets if Sokkel is late. Version 2026-10.
 
-Sokkel reserves the right to make improvements, add, modify or remove
-functionality, or correct any errors or defects in the Service at its sole
-discretion, without any obligation or liability resulting from such act or
-defects. Sokkel will however not remove functionality which in Sokkel's
-reasonable opinion must be considered as core functionalities for a service such
-as the Service.
+## 1. Support
 
-Sokkel and the Customer agree that the Service will not always be completely
-free of errors and that the improvement of the Service is a continuous process.
-The Customer is also aware that successful use of the Service is dependent on
-equipment and factors (such as sufficient internet connection) that the Customer
-has the responsibility for. Sokkel is not liable for the discontinuance or
-disruption of the operation of the Service caused by the Internet or any third
-party service the Customer needs in order to access the Service, including
-operating systems etc.
+1.1 **Hours.** Support is open 09:00 to 17:00 Norwegian time on weekdays, except Norwegian public holidays ("business hours").
 
-Third party software and operating system updates etc. may influence the
-usability of the Service, and Sokkel has no responsibility in this regard.
+1.2 **How to reach support.** The Customer reports errors by email to support@sokkel.io or in the chat in the services. A report describes what happened, when, and how to see it.
 
-Sokkel will however always use best efforts to accommodate and develop the
-Service for updates etc. on supported operating systems.
+1.3 **Monitoring.** Sokkel monitors the hosting services around the clock and starts work on category A errors in them at any time of day, also when the Customer has not reported the error.
 
-Sokkel is only responsible for the functioning of the Service as such, and
-undertakes the following obligations regarding error handling with regards to
-the Service:
+## 2. Errors and repair times
 
-- Sokkel will provide support to the Customer during normal business hours
-  (0900-1700 CET, Monday to Friday, excluding public holidays in Norway) via
-  email and chat.
-- Sokkel will use reasonable efforts to correct errors in the Service as soon as
-  possible, in accordance with the error categories and repair times set out
-  below.
+2.1 **Categories.** The Customer chooses the category when reporting an error. If Sokkel disagrees, Sokkel says why, and the parties agree on the category.
 
-Error categories and repair times:
+- **A, critical:** a service, or a material part of it, is unavailable and the Customer cannot do critical work. Repair time: 1 business day.
+- **B, serious:** the service works, but its performance or functions are severely reduced. Repair time: 3 business days.
+- **C, minor:** something non-critical does not work, with little or no effect on the Customer's work. Repaired in an upcoming release.
 
-- Critial (A): All or material parts of the Service are unavailable and critical
-  business functions cannot be performed. Repair time: One (1) business day.
-- Serious (B): The Service is able to perform standard functions, but the
-  Service performance or functionality is severely degraded or limited. Repair
-  time: Three (3) business days.
-- Less serious (C): Non-critical functions do not work and this has little or no
-  business impact. Repair time: Continuously.
+2.2 **When the clock starts.** The repair time starts when Sokkel has received the report with enough information to understand the error. An error is repaired when the service works normally again, through a permanent fix or a workaround.
 
-The repair time stated in the table above starts when the Customer has given
-Sokkel notice of the error and sufficient information to assess and understand
-what the error comprises. Notice shall be given by written e-mail to
-support@Sokkel.com or via Sokkels’s online chat channel, available both within
-the Service and on sokkel.io.
+2.3 **Status.** Sokkel tells the Customer when work on a category A or B error has started, and again when it is repaired.
 
-If Sokkel has not succeeded in curing a category A or B error within the repair
-time stated, the Customer is entitled to a period of free extension of the
-service, and must claim such free extensions within 90 days after the error
-notification was sent to Sokkel. The free extension for failing to meet the
-repair time for category A errors shall be 14 days. For category B errors the
-free extension shall be 4 days. For category C errors no free extension is
-given. Total free extension periods per year is limited to 28 days. The above
-described free extensions shall be the only claim the Customer may be entitled
-to in case of failure to meet the repair times stated above.
+## 3. Free days if Sokkel is late
 
-A category A error lasting more than 10 days is considered a material breach.
-The same applies for a category B error lasting more than 20 days.
+3.1 **Free days.** If Sokkel does not repair an error within the repair time, the current term is extended at no cost by 14 days for a category A error and 4 days for a category B error. The Customer claims free days by email within 90 days after reporting the error.
 
-Planned downtime is not considered an error. Downtime may be necessary to
-perform updates or maintenance in hardware or software from time to time. Sokkel
-may have planned downtime up to 10 times each calendar year. Planned downtime
-shall always be notified at least five (5) business days in advance and shall be
-done outside of normal business hours (0900-1700 CET) if possible. For planned
-downtime of up to 24 hours, notification shall be given at least ten (10) days’
-in advance. Planned downtime according to this clause is not considered as a
-breach of contract.
+3.2 **Limit.** The Customer gets at most 28 free days per year of the agreement.
 
-Sokkel may use sub-contractors to provide the Service including all support and
-maintenance. To the extent a subcontractor processes personal data for which the
-Customer is a data controller, the Data Processing Agreement sets out
-requirements in this regard.
+3.3 **Other remedies.** Free days do not stop the Customer from ending the agreement for material breach under section 9.3 of the General Terms, or from claiming compensation under section 11 of the General Terms.
 
-Sokkel shall provide backup of the Customer’s data, to restore it after a data
-loss event.
+## 4. Planned maintenance
 
-For support purposes, Sokkel has internal administrators who can access
-Customers’ data. Sokkel will never access Customers’ data without prior approval
-from the Customer. Logs are kept of any access by Sokkel administrators.
+4.1 **Notice.** Sokkel tells the Customer about planned maintenance that makes a service unavailable at least 5 business days in advance, or at least 10 business days in advance if it will last more than 4 hours.
+
+4.2 **Limits.** Planned maintenance happens outside business hours when possible, lasts at most 24 hours each time and happens at most 10 times per calendar year. Planned maintenance within these limits is not an error.
+
+## 5. What is outside Sokkel's control
+
+5.1 **The Customer's side.** Sokkel is not responsible for errors caused by the Customer's own applications, equipment, network or internet connection, by servers or cloud accounts the Customer connected itself, or by services the Customer chose to connect to Sokkel.
+
+## 6. Backups and access
+
+6.1 **Backups.** Sokkel backs up Customer Data, including managed databases, so it can be restored after loss.
+
+6.2 **Access to Customer Data.** Sokkel's staff open Customer Data only when the Customer has approved it, for example to solve an error the Customer reported, or when it is needed to stop a category A error or a security threat. Every such access is logged.

@@ -2,332 +2,82 @@
 layout: ../../layouts/TermsLayout.astro
 ---
 
-# DATA PROCESSING AGREEMENT
+# Appendix 2: Data Processing Agreement
 
-## 1. Background and purpose of the processing
+The Customer decides why and how personal data in the service is processed (the controller). Sokkel processes it on the Customer's behalf (the processor). This appendix is the agreement the GDPR requires in Article 28, as it applies in Norway through the Personal Data Act (personopplysningsloven). Words such as "personal data", "processing" and "personal data breach" mean what they mean in the GDPR. Version 2026-10.
 
-The Processor shall process the personal data on behalf of the Controller
-concerning the above-said. The subject and purpose of the processing of personal
-data, the duration of the processing of personal data, the subject matter of the
-processing of personal data, the types of personal data to be processed, the
-categories of data subjects to whom the personal data relates and other
-obligations and rights of the Controller are included in Appendix to this
-Agreement.
+## 1. What is processed
 
-This Agreement shall provide for the processing of personal data in accordance
-with the regulation the EU Regulation 2016/679 of the European Parliament and of
-the Council of 27 April 2016 on the protection of natural persons with regard to
-the processing of personal data and the free movement of such data, and
-repealing Directive 95/46/EC ("General Data Protection Regulation" or "GDPR") as
-implemented into Norwegian legislation in the Personal Data Act
-(LOV-2018-06-15-38), and in accordance with other relevant legislation which
-concerns the processingsof personal data under the Agreement (“Personal Data
-Regulation”). The Processor shall process the personal data only in the way
-described in the Agreement, as agreed in writing with the Controller, or as
-instructed by the Controller.
+1.1 **Purpose.** Sokkel processes personal data only to provide the services to the Customer under the agreement, including hosting the Customer's applications and their data.
 
-Terms and definitions used in the Agreement shall be construed in the same way
-as in the Personal Data Regulation.
+1.2 **Duration.** Processing lasts as long as the agreement, and until the data is deleted under section 8.
 
-## 2. The Processor's duties
+1.3 **People the data is about.** The Customer's Users, and anyone whose personal data the Customer, its Users or its applications put into the services, such as the Customer's own customers, employees and partners.
 
-The Processor confirms that it will implement appropriate technical and
-organizational measures in such a manner that processing will meet the
-requirements of the Personal Data Regulation and ensure the protection of the
-rights of the data subject, inclusive comply with the requirements in GDPR
-Article 32. Other duties are set forth under Section 5. The Controller shall at
-any time have the legal rights to the personal data.
+1.4 **Kinds of personal data.** For Users: names, usernames, email addresses, phone numbers, login details, support requests and records of their use of the services. For hosting: whatever personal data the Customer's applications store or process, including in databases, files, logs, metrics and traces. The Customer decides what that is.
 
-The Processor shall only process the personal data under the instructions given
-by the Controller. The Processor shall be able to document such instructions if
-requested. The Processor shall not process the personal data in any other way
-than instructed or necessary to provide the services or undertake the
-obligations requested by the Controller.
+1.5 **Sensitive data.** If the Customer's applications will process special categories of personal data, such as health data, the Customer tells Sokkel in writing first, and the parties agree on any extra security measures.
 
-The Processor can use de-identified data for its own purposes, including for
-statistical and analytical purposes, provided that the data cannot be traced
-back to an individual.
+## 2. Sokkel's duties
 
-The Processor shall, considering the nature of the processing, assist the
-Controller by appropriate technical and organizational measures, insofar as this
-is possible, for the fulfillment of the Controller's obligation to respond to
-requests for exercising the data subject's rights laid down in GDPR Chapter III.
-In addition, the Processor shall assist the Controller in ensuring compliance
-with the obligations pursuant to GDPR Articles 32 to 36 taking into account the
-nature of processing and the information available to the Processor. If there
-are an approved code of conduct as referred to in Article 40 or an approved
-certification mechanism as referred to in Article 42, which the Processor has
-undertaken to comply with, the Processor shall comply with such code of conduct
-or certification mechanism at any time during the term of this Agreement.
+2.1 **Instructions.** Sokkel processes personal data only on the Customer's documented instructions. The agreement, including this appendix, is the Customer's instructions. The Customer may give further instructions in writing. Sokkel tells the Customer at once if it believes an instruction breaks data protection law.
 
-The Processor shall maintain a record of processing activities which the
-Processor performs for the Controller. The record shall contain at a minimum the
-information required under GDPR Article 30 no. 2.
+2.2 **Required by law.** If the law requires Sokkel to process personal data in another way, Sokkel tells the Customer first, unless the law forbids it.
 
-The Processor shall maintain a record of processing activities which the
-Processor performs for the Controller. The record shall contain at a minimum the
-information required under GDPR Article 30 no. 2. The Processor shall make
-available to the Controller all information reasonable and necessary to
-demonstrate compliance with the obligations laid down in this Section 2 and
-allow for and contribute to audits, including inspections, conducted by the
-Controller or another auditor mandated by the Controller, which is reasonable
-and necessary under the legal obligations. The Controller is however solely
-responsible for the contact and communication with the supervisory authorities,
-such as Datatilsynet in Norway, and the Processor shall not contact the
-supervisory authorities about the processing unless this has been cleared with
-the Controller. The Processor has a duty of confidentiality regarding the
-personal data and other information the Processor receives as part of the
-Agreement and the processing of personal data, and shall ensure that persons
-authorized to process the personal data have committed themselves to
-confidentiality or are under an appropriate statutory obligation of
-confidentiality. The obligation of confidentiality shall survive any termination
-of the Agreement.
+2.3 **Confidentiality.** Everyone at Sokkel who can access personal data is bound by a duty of confidentiality.
 
-The Processor shall not transfer or give access to the personal data or
-information which the Processor processes or handles on behalf of the Controller
-to a third party without the explicit instruction from the Controller. Any
-requests regarding the personal data or the processing from others or the data
-subject shall be forwarded to the Controller without undue delay if not
-otherwise agreed in this Agreement or by instruction by the Controller.
+2.4 **Help with requests.** Sokkel helps the Customer answer requests from people who use their rights under the GDPR, such as access, correction and deletion. Sokkel forwards such requests it receives to the Customer without undue delay and does not answer them itself.
 
-If the Processor is in the opinion that an instruction by the Controller
-infringes the Personal Data Regulation, the Processor shall immediately inform
-the Controller.
+2.5 **Help with compliance.** Sokkel helps the Customer meet its duties under GDPR Articles 32 to 36, such as security, reporting breaches and data protection impact assessments, as far as Sokkel's information allows.
 
-## 3. Duties and rights of the Controller
+2.6 **Records.** Sokkel keeps a record of the processing it does for the Customer, as GDPR Article 30(2) requires.
 
-The Controller is responsible for ensuring that personal data is processed in
-accordance with the Personal Data Regulation, and has both a right and an
-obligation to decide which purposes and which aids can be used in the processing
-carried out by the data processor. Therefore, the Controller must provide the
-data processor with documented instructions for how personal data is to be
-processed, where the instructions can either be part of this Agreement or
-attached to the Agreement. The instructions may also be given after entering
-into the Agreement.
+## 3. Sub-processors
 
-## 4. Use of subcontractor/sub-processor
+3.1 **Approved sub-processors.** The Customer approves the sub-processors in the sub-processor list that Sokkel gives the Customer with the subscription agreement. The list says what each sub-processor does and where it stores data. It depends on the regions the Customer uses: the sub-processors that apply to every customer are also published at [sokkel.io/terms/sub-processors](https://sokkel.io/terms/sub-processors), and a partner region, which has "-p-" in its name, adds the partner that runs it. A provider the Customer chooses to use through the services, such as a language model, is a sub-processor only if Sokkel has the contract with it; the list says which ones are.
 
-The Controller acknowledges and consents to The Processor utilization of
-sub-processors as listed at https://sokkel.com/terms/sub-processor. The
-Processor can modify this list as needed. To stay informed about such changes,
-the Controller can opt-in for email notifications by contracting dpo@sokkel.io.
+3.2 **New regions.** If the Customer starts using a partner region that is not on its list, the services name the partner before the Customer confirms, and confirming approves that partner. Sokkel then sends the Customer its updated list.
 
-Should the Controller wish to contest the addition of a new sub-processor, they
-must submit a written objection to the Processor within a 30-day window
-following the notification. Upon receiving an objection, both parties commit to
-collaboratively seeking a resolution. This may involve making reasonable
-adjustments to the Controller's service configuration or agreement to circumvent
-personal data processing by the new sub-processor.
+3.3 **Changes.** Sokkel tells the Customer by email at least 30 days before it adds or replaces a sub-processor on the Customer's list. The Customer may object in writing within those 30 days, giving its reasons. If the parties cannot find a solution, the Customer may end the agreement before the change takes effect, and Sokkel refunds fees paid for the time after it ends.
 
-If the Controller objects to changes to Sub-processors, the parties must work
-together in good faith to resolve the objection, including potential changes to
-the deals, configuration or use of the services provided by the Processor.
-Objections can only be raised on the grounds that the new sub-processor's
-inclusion would result in the Controller violating their data protection
-obligations or other relevant legal requirements. If no objection is raised
-within the specified timeframe, the new sub-processor will be deemed accepted by
-the Controller.
+3.4 **Same duties.** Sokkel binds each sub-processor in writing to the same data protection duties as Sokkel has under this appendix. Sokkel is responsible to the Customer for its sub-processors as for itself.
 
-Sokkel will maintain an up-to-date list of sub-processors on their website, and
-any additions to this list will serve as official notice to Controller.
+## 4. Transfers outside the EEA
 
-Any sub-processor shall be imposed the same obligations as the Processor set
-forth in the Agreement in a written, binding agreement wherein the sub-processor
-is providing sufficient guarantees to implement appropriate technical and
-organizational measures in such a manner that the processing will meet the
-requirements of the Personal Data Regulation. Where that sub-processor fails to
-fulfill its data protection obligations, the Processor shall remain fully liable
-to the Controller for performing the subprocessor's obligations.
+4.1 **Location.** Personal data is stored in the regions the Customer chooses. Unless the Customer chooses otherwise, that is a region in the EEA. Choosing a region outside the EEA is an instruction from the Customer to transfer data there.
 
-## 5. Security of processing and notification of breach
+4.2 **Transfers.** Sokkel or a sub-processor transfers personal data to, or accesses it from, a country outside the EEA only on a valid basis under GDPR Chapter V, such as an adequacy decision or the EU standard contractual clauses. Sokkel tells the Customer which basis it uses, on request.
 
-The Processor shall comply with the requirements for security given in the
-Personal Data Regulation and such best practice/branch standards the Processor
-deems relevant for the processing. The Processor shall provide documentation of
-technical and organizational measures implemented to ensure the security of the
-personal data upon the request of the Controller.
+## 5. Breaches
 
-In case of a personal data breach, the Processor shall without undue delay
-notify the Controller. Such notification shall at least:
+5.1 **Notice.** Sokkel tells the Customer about a personal data breach within 24 hours of finding out, so the Customer can meet its 72-hour deadline in GDPR Article 33.
 
-1. describe the nature of the personal data breach including where possible, the
-   categories and approximate number of data subjects concerned and the
-   categories and approximate number of personal data records concerned;
-2. communicate the name and contact details of the contact point where more
-   information can be obtained;
-3. describe the likely consequences of the personal data breach;
-4. describe the measures taken or proposed to be taken to address the personal
-   data breach, including, where appropriate, measures to mitigate its possible
-   adverse effects.
+5.2 **Content.** The notice says what happened, which kinds and roughly how many people and records are affected, the likely consequences, and what Sokkel has done or will do. If Sokkel does not know everything yet, it sends what it knows and the rest as soon as possible.
 
-If not all information above may be given in the first notice, the information
-shall be provided as soon as possible. The Controller is responsible for
-notifying the supervisory authorities, such as Datatilsynet in Norway, and the
-Processor is not to contact or notify the supervisory authorities without the
-explicit instruction by the Controller.
+5.3 **The authority.** The Customer decides whether to report a breach to the Norwegian Data Protection Authority (Datatilsynet). Sokkel does not contact Datatilsynet about the Customer's data unless the Customer asks it to or the law requires it.
 
-## 6. Transfer to countries outside the EEA (third countries)
+## 6. Security
 
-Personal data shall only be transferred to third countries, i.e. countries
-outside EU/EEA, which ensure an adequate level of protection upon explicit
-agreement or instructions by the Controller. The Processor shall not transfer or
-give access to the personal data to persons in third countries without the
-explicit approval of the Controller. The consent or instruction given by the
-Controller must cover the country which the personal data shall be transferred
-to or accessed.
+6.1 **Measures.** Sokkel keeps at least these measures in place for the services it operates, as GDPR Article 32 requires:
 
-For the transfer to or access from third countries for personal data, it is
-required that the appropriate safeguards, including with regard to the rights of
-data subjects, be complied with.
+- Personal data is encrypted when stored and when sent.
+- Everyone at Sokkel uses multi-factor authentication on every system that touches customer data.
+- People and systems get only the access they need, and every access to customer data is logged and reviewed.
+- Each customer's data is kept apart from other customers' data and from Sokkel's internal systems.
+- Every change to production systems is reviewed and approved by at least two people.
+- Systems are patched and monitored, with alerts for unusual activity.
+- Data is backed up, and Sokkel has a written plan for handling security incidents.
 
-## 7. Term. Instruction to stop the processing. Effect on termination
+6.2 **Review.** Sokkel reviews these measures at least every three months and may change them, but never in a way that lowers the protection of personal data.
 
-This Agreement shall be effective and stay in force as long as the Processor
-(and its permitted sub-processors) processes personal data on behalf of the
-Controller in the context of the Main Agreement.
+## 7. Audits
 
-Upon breach of this Agreement, of instructions given by the Controller or on the
-Personal Data Regulation, the Controller may instruct the Processor to stop the
-processing of the personal data with immediate effect.
+7.1 **Information.** Sokkel gives the Customer the information it needs to check that Sokkel meets this appendix.
 
-Upon termination of this Agreement, regardless of reason, the Processor (and its
-permitted sub-processors) shall within 60 days delete or return any or all
-personal data to the Controller, subject to the Controllers instructions, in a
-standardized format and medium along with necessary instructions to facilitate
-the Controller’s further use of such data, and delete all copies of those
-personal data.
+7.2 **Audits.** The Customer, or an auditor it appoints who is bound by confidentiality, may audit Sokkel once a year, or after a personal data breach, with 30 days' written notice. Each party pays its own costs.
 
-The Controller shall upon request receive a written confirmation from the
-Processor that all personal data has been returned or deleted according to the
-Controller’s instructions and that the Processor has not kept any copy, printout
-or any other representation of such data on any medium.
+## 8. When the agreement ends
 
-## 8. Other duties and rights
+8.1 **Return and deletion.** When the agreement ends, the Customer chooses whether Sokkel returns the personal data, as described in section 4.2 of the General Terms, or deletes it. Sokkel deletes all copies, including backups, within 60 days, unless the law requires Sokkel to keep them. Sokkel confirms the deletion in writing on request.
 
-Other obligations and rights are governed by the Main Agreement between the
-Controller and the Processor regarding the services that necessitate the
-processing of personal data and this Agreement. The same contact persons apply
-for the Agreement as under the Main Agreement.
-
-If the Main Agreement is transferred, this Agreement shall be transferred
-accordingly.
-
-## Details on Processing
-
-For the Data Exporter, identified as the Controller, contact information is to
-be provided by the Controller through an online purchase system or specified in
-relevant order documents, the Main Agreement.
-
-Sokkel AS serves as the Processor. Contact details for Sokkel AS are as follows:
-
-- Address: Gaustadalléen 21, 0349 Oslo, Norway
-- Email: dpo@sokkel.io
-
-The transfer of Personal Data between the Controller and Processor is designed
-to be an ongoing process that aligns with the operational needs of the service.
-This continuous data flow will persist throughout the entire duration of the
-Controller's subscription period, as defined in the Subscription Agreement and
-this Data Processing Agreement (DPA).
-
-The timeframe for these data transfers is not fixed to specific intervals or
-one-time events. Instead, it is structured to support the ongoing nature of the
-service provision, allowing for real-time data processing and service delivery
-as required by the Controller's usage patterns and needs.
-
-This approach ensures that the necessary Personal Data is available to the
-Processor for as long as the Controller maintains an active subscription,
-facilitating uninterrupted service delivery and support.
-
-Data subjects whose Personal Data are transferred:
-
-- The Controller's business contacts, including prospective and current
-  customers, partners, and individual vendors.
-- People working on behalf of the Controller, such as staff members,
-  representatives, advisors, and freelance professionals.
-- End-users of the Controller
-- Any natural person who becomes identifiable through information provided by
-  the Controller while using the service. Types of Personal Data Involved in
-  Transfers The agreement covers various categories of personal information that
-  may be processed:
-- Identity and access details, including individual names, chosen usernames,
-  email addresses, and security credentials.
-- Public-facing profile data, which might encompass names, visual
-  representations like avatars or photographs, workplace information,
-  professional titles, postal addresses, links to social media profiles, and
-  personal or professional biographies.
-- Contact details necessary for communication, such as names, physical
-  addresses, email addresses, and phone numbers.
-- Information shared during customer support interactions, detailing service
-  requests and assistance provided.
-- Usage analytics data that allows the Controller to assess engagement levels of
-  their authorized users, including metrics and statistical information related
-  to service utilization.
-
-## Sensitive categories of Personal Data
-
-Sokkel maintains a policy against deliberately collecting or processing
-sensitive or special categories of Personal Data. This includes, but is not
-limited to, genetic information, health-related data, or details about religious
-affiliations.
-
-The Controller is advised not to submit such sensitive data to the Processor's
-services without prior explicit agreement, as outlined in the relevant section
-of the Subscription Agreement.
-
-However, in the event that the Controller does transmit sensitive or special
-categories of Personal Data to the Processor's services without obtaining prior
-consent, such information will still be protected. In these instances, the data
-will fall under the scope of the technical and organizational security measures
-that the Processor has implemented, as detailed in the security appendix to this
-agreement. The nature and purpose of processing.
-
-The processing activities are directly tied to the Controller's utilization of
-the Processor's services. The specific purposes and parameters of this
-processing are determined and managed exclusively by the Controller, according
-to their own requirements and objectives. The primary reason for transferring
-data is to enable Sokkel to deliver its services effectively. These services are
-hosted and managed on computing infrastructure located within Europe.
-
-## Retention
-
-The retention period for Personal Data is primarily governed by the Controller's
-decisions and requirements. This arrangement allows the Controller to determine
-how long their data should be kept within the Processor's systems.
-
-Generally, the Processor will maintain the Personal Data for the duration of the
-Controller's active subscription. Once the subscription term concludes, the data
-retention period typically ends, unless otherwise specified by the
-Controller.Generally, the Processor will maintain the Personal Data for the
-duration of the Controller's active subscription. Once the subscription term
-concludes, the data retention period typically ends, unless otherwise specified
-by the Controller.
-
-However, there are two key exceptions to this general rule:
-
-- Certain laws or regulations may necessitate the retention of specific data
-  beyond the subscription term.
-- The Subscription Agreement between the Controller and Processor may include
-  clauses that allow for extended data retention under particular circumstances.
-
-These exceptions ensure compliance with legal obligations and agreed-upon terms,
-while still prioritizing the Controller's authority over their data. The
-Processor will adhere to these retention guidelines, balancing the Controller's
-preferences with any applicable legal or contractual requirements.
-
-## Security Measures in the Processing
-
-Sokkel commits to implementing and maintaining a comprehensive set of security
-measures to protect Personal Data. These measures are designed to ensure the
-confidentiality, integrity, and availability of data processed on behalf of the
-Controller. The security framework includes technical and organizational
-safeguards specifically tailored for Sokkel's services.
-
-These measures are documented and regularly updated to address evolving security
-challenges and best practices in data protection, found at
-https://sokkel.io/terms/security.
-
-Sokkel operationalizes security through a set of policies and continuous
-training. Extending this security commitment, Sokkel requires its sub-processors
-to implement and maintain security measures that are substantially equivalent to
-its own standards. This approach ensures a consistent level of protection
-throughout the data processing ecosystem.
+8.2 **Stop processing.** If Sokkel breaks this appendix, the Customer may instruct Sokkel to stop processing personal data at once.
